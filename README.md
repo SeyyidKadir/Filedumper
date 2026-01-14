@@ -24,25 +24,25 @@ Perfect for quick & dirty memory forensics, file carving from RAM, or just messi
 Here are some screenshots showing the tool in action:
 
 **Beautiful ASCII banner & usage/help screen**  
-![Banner and Help](Filedumper/Screenshots/1.png)  <!-- Senin ss1 için -->
+![Banner and Help](Filedumper/Screenshots/1.png)
 
 **Dumped .bin files in folder**  
-![Dumped Files](Filedumper/Screenshots/2.png)  <!-- ss2 için -->
+![Dumped Files](Filedumper/Screenshots/6.png)
 
 **Hex + ASCII memory dump view**  
-![Hex Dump](Filedumper/Screenshots/3.png)  <!-- ss3 için -->
+![Hex Dump](Filedumper/Screenshots/7.png)
 
 **Process list output**  
-![Process List](Filedumper/Screenshots/4.png)  <!-- ss4 için -->
+![Process List](Filedumper/Screenshots/3.png)
 
 **Help screen with commands**  
-![Help Commands](Filedumper/Screenshots/5.png)  <!-- ss5 için -->
+![Help Commands](Filedumper/Screenshots/2.png)
 
 **More process list**  
-![Process List Continued](Filedumper/Screenshots/6.png)  <!-- ss6 için -->
+![Process List Continued](Filedumper/Screenshots/4.png)
 
 **Dumping in action with success messages**  
-![Dumping Output](Filedumper/Screenshots/7.png)  <!-- ss7 için -->
+![Dumping Output](Filedumper/Screenshots/5.png)
 
 ### Requirements
 
